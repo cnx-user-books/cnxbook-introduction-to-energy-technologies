@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Module 3: Heat Pumps</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47730</md:content-id>
+  <md:title>Module 3: Heat Pumps</md:title>
+  <md:abstract>This course introduces the energy technologies in use today, and those that are in the research stage as possible alternatives. This course is aligned with the textbook "Energy and the Environment" by Ristinen/Kraushaar. Instructor: Lee McMains</md:abstract>
+  <md:uuid>706bc0e0-3cc2-4ef0-a1e6-4b5fbd9f6b9a</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>Introduction and Instructions</title>In this module we will consider heat pumps, and discern how they're different than heat engines.<newline/><newline/>
+<emphasis effect="underline">Objective and Big Questions </emphasis>
+<newline/><newline/>
+At the completion of this module you should be able to:
+<list id="comp"><item>Describe the compression refrigeration cycle.</item>
+<item>Understand other methods of cooling.</item>
+<item>Understand other methods of cooling.</item>
+<item>Apply the Coefficient of Performance to determine heat pump efficencies.</item>
+
+</list><newline/>
+As you work through this module please keep the following questions in mind:
+<list id="quest"><item>Can a heat engine be 100% efficient?</item>
+<item>How does the refrigeration cycle work?</item>
+<item>Of two different air conditioning units, which is "better"?</item>
+</list>
+<emphasis effect="underline">Timeframe</emphasis><newline/><newline/>
+
+
+  </para><para id="eip-913">We will spend 1 week on this module.</para><para id="eip-134"><title>Reading</title>For this module, please begin by reading pages 79-82 of the textbook. Be sure to read the tables, look at the figures, and study the examples.
+<newline/><newline/>
+<emphasis> 3 Minute Masteries</emphasis>
+<newline/><newline/>
+Please review (read the text and watch the associated video) the 3-Minute Masteries (3MMs) for this module which closely emulate in-class lectures (only much shorter!)</para><list id="eip-297"><item><link id="mm1" window="new" document="m47702">Temperature Difference and Used Work</link></item>
+<item><link id="mm2" window="new" document="m47703">Thermodynamics of Heat Pumps</link></item>
+<item><link id="mm3" window="new" document="m47704">Coefficient of Performance</link></item>
+<item><link id="mm4" window="new" document="m47705">Ways to Create a Temperature Difference I</link></item>
+<item><link id="mm5" window="new" document="m47706">Ways to Create a Temperature Difference II</link></item>
+</list><para id="eip-11"><title>Discussion</title>Read this article on <link id="pump" window="new" url="http://energy.gov/energysaver/articles/heat-pump-systems">heat pumps</link>. 
+<newline/><newline/>
+Based on your knowledge of how heat pumps work (they do work to move heat), which of the advancements mentioned do you think would be best for Colorado?</para></content>
+
+</document>

@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Module 2: Heat Engines</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47729</md:content-id>
+  <md:title>Module 2: Heat Engines</md:title>
+  <md:abstract>This course introduces the energy technologies in use today, and those that are in the research stage as possible alternatives. This course is aligned with the textbook "Energy and the Environment" by Ristinen/Kraushaar. Instructor: Lee McMains</md:abstract>
+  <md:uuid>074fab90-9f9f-4ed2-b5b8-7aa44f63b69c</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>Introduction and Instructions</title>In this module we will explore the concept of heat engines and look for common, everyday examples.<newline/><newline/>
+<emphasis effect="underline">Objective and Big Questions </emphasis>
+<newline/><newline/>
+At the completion of this module you should be able to:
+<list id="comp"><item>Explain how a temperature difference can be used to do useful work.</item>
+<item>Explain how a heat engine works.</item>
+<item>Explain the differences between various internal combustion and external combustion engines.</item>
+</list><newline/>
+As you work through this module please keep the following questions in mind:
+<list id="quest"><item>Can a heat engine be 100% efficient?</item>
+<item>What do these diverse engine designs have in common?</item>
+<item>How does each engine type exploit the temperature difference?</item>
+<item>What are the limitations of the engine types?</item>
+</list>
+<emphasis effect="underline">Timeframe</emphasis><newline/><newline/>
+
+
+  </para><para id="eip-913">We will spend 1 week on this module.</para><para id="eip-134"><title>Reading</title>For this module, please begin by reading pages 63-67, 72-79 of the textbook. Be sure to read the tables, look at the figures, and study the examples.
+<newline/><newline/>
+<emphasis> 3 Minute Masteries</emphasis>
+<newline/><newline/>
+Please review (read the text and watch the associated video) the 3-Minute Masteries (3MMs) for this module which closely emulate in-class lectures (only much shorter!)</para><list id="eip-469" list-type="enumerated" number-style="arabic"><item><link id="mm1" window="new" document="m47695">Mechanical Equivalent of Heat I</link></item>
+<item><link id="mm2" window="new" document="m47697">Mechanical Equivalent of Heat II</link></item>
+<item><link id="mm3" window="new" document="m47698">How to Express 'Efficiency'</link></item>
+<item><link id="mm4" window="new" document="m47699">Temperature Difference and Available Work</link></item>
+<item><link id="mm5" window="new" document="m47701">Ways to Exploit a Temperature Difference</link></item>
+</list><para id="eip-497"><title>Assignment</title><link id="heat" window="new" document="m47696">PowerPoint: Heat Engine</link></para></content>
+
+</document>
